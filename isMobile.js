@@ -16,7 +16,7 @@ export default function IsMobile() {
         <div>
             this will check if your device is mobile or not...
           <h1>
-            {IsMobile ? "your device is mobile" : "your device is note mobile"}
+            {IsMobile ? "your device is mobile" : "your device is not mobile"}
           </h1>
         </div>
       </main>
